@@ -1,5 +1,7 @@
 remote1
 remote2
+local 0
 local1
 local2
 local3
+local4
